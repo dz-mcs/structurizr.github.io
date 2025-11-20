@@ -15,7 +15,7 @@ an associated __view__ that describes a user using a software system.
 workspace {
 
     model {
-        u = person "User"
+        u = person "User52292"
         ss = softwareSystem "Software System"
 
         u -> ss "Uses"
